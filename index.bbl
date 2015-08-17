@@ -1,0 +1,23 @@
+\begin{thebibliography}{1}
+
+\bibitem{berge1991short}
+Claude Berge and Jean~Claude Fournier.
+\newblock A short proof for a generalization of vizing's theorem.
+\newblock {\em Journal of graph theory}, 15(3):333--336, 1991.
+
+\bibitem{graphtheory}
+B{\'e}la Bollob{\'a}s.
+\newblock {\em Graph theory}, page~94.
+\newblock Elsevier, 1982.
+
+\bibitem{even2011graph}
+Shimon Even.
+\newblock {\em Graph algorithms}, pages 11--14.
+\newblock Cambridge University Press, 2011.
+
+\bibitem{misra1992constructive}
+Jayadev Misra and David Gries.
+\newblock A constructive proof of vizing's theorem.
+\newblock {\em Information Processing Letters}, 41(3):131--133, 1992.
+
+\end{thebibliography}
